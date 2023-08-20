@@ -1,0 +1,363 @@
+.picture-first {
+  height: 100px;
+  width: 100px;
+  border: 3px solid goldenrod;
+  border-radius: 50%;
+  margin-top: 10%;
+  margin-left: 285px;
+  display: inline-block;
+}
+
+.picture-second {
+  height: 100px;
+  width: 100px;
+  border: 3px solid goldenrod;
+  border-radius: 50%;
+  margin-top: 10%;
+  margin-left: 285px;
+  display: inline-block
+}
+
+.picture-third {
+  height: 100px;
+  width: 100px;
+  border: 3px solid goldenrod;
+  border-radius: 50%;
+  margin-top: 10%;
+  margin-left: 285px;
+  display: inline-block
+}
+
+.heading-first {
+  text-align: center;
+  margin-top: 5%;
+  color: goldenrod;
+  font-family: cursive, Snell Roundhand;
+}
+
+.heading-second {
+  text-align: center;
+  margin-top: 5%;
+  color: azure;
+}
+
+.heading-third {
+  text-align: center;
+  margin-top: 5%;
+  color: azure;
+}
+
+.paragraphtwenty {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.paragraphtwentyone {
+  text-align: center;
+}
+
+.paragraph-second {
+  margin-top: 5%;
+  color: azure;
+  font-family: 'Georgia', Times New Roman, Times, serif;
+}
+
+.paragraph-third {
+  text-align: center;
+  margin-top: 10%;
+  color: azure;
+  font-family: 'Georgia', Times New Roman, Times, serif;
+}
+
+.paragraph-seventh {
+  text-align: center;
+  margin-top: 1%;
+  color: azure;
+  font-family: 'Georgia', Times New Roman, Times, serif;
+}
+
+.paragraph-fourth {
+  text-align: left;
+  margin-top: 10%;
+  color: azure;
+  font-family: Javanese Text;
+}
+
+.paragraph-fifth {
+  text-align: left;
+  margin-top: 5%;
+  color: azure;
+  font-family: Javanese Text;
+}
+
+.paragraph-sixth {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  font-size: 20px;
+  font-family: Calisto MT;
+  font-weight: bolder;
+  background-color: white;
+}
+
+li {
+  color: white;
+  font-family: 'Georgia', Times New Roman, Times, serif;
+}
+
+.picture-fourth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fifth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-sixth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-seventh {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-eighth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-ninth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-tenth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-eleventh {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-twelfth {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fourteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fifteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-sixteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-seventeen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-eighteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-nineteen {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twenty {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentyone {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentytwo {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentythree {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentyfour {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentyfive {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentysix {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentyseven {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentyeight {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-twentynine {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-thirty {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+.picture-thirtyone {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtytwo {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtythree {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtyfour {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtyfive {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtysix {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtyseven {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtyeight {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-thirtynine {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-forty {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fortyone {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fortytwo {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fortythree {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fortyfour {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+.picture-fortyfive {
+  width: 8cm;
+  height: 10cm;
+  margin-left: 16cm;
+}
+
+figcaption {
+  margin-left: 16cm;
+  margin-bottom: 3%;
+}
+
+.background-etc {
+  background-color: red;
+  width: auto;
+  height: -5%;
+}
+
+.background-about {
+  background-color: black;
+}
+
+.background-goals {
+  background-color: darkturquoise;
+}
